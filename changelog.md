@@ -8,3 +8,7 @@
 6. Set ram to use system settings
 7. Redisabled Abyssalcraft to fix bug
 8. Removed All disabled mods
+9. Removed Hardcore Questing Mode
+10. Added SpongeForge
+
+**11. ADDED HACKS WITH FORGEWURST**
