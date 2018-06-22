@@ -12,3 +12,5 @@
 10. Added SpongeForge
 
 **11. ADDED HACKS WITH FORGEWURST**
+
+12. Updated configs
